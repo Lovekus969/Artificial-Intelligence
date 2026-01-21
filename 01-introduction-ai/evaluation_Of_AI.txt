@@ -1,0 +1,28 @@
+The Evolution of AI
+  AI has evolved through several major phases:
+
+️1. Symbolic AI (Good Old-Fashioned AI)
+        Focused on rules, logic, and symbolic reasoning
+        Used in expert systems
+        Strength: Explainable reasoning
+        Limitation: Poor performance in complex, real-world environments
+        
+️2.  Statistical & Data-Driven AI
+        Uses probability, statistics, and machine learning
+        Learns patterns from data instead of hard-coded rules
+
+️3. Modern AI & Deep Learning
+        Neural networks with many layers
+        Used in speech recognition, image recognition, and autonomous systems
+        Enabled by GPUs, big data, and cloud computing
+        
+Nowadays, Current State of the Art in AI
+        Today, AI systems are widely used across many domains:
+        Computer Vision – facial recognition, medical imaging
+        Natural Language Processing – chatbots, translation, voice assistants
+        Game Playing – AlphaGo, chess engines
+        Autonomous Systems – self-driving cars, drones
+        Recommendation Systems – Netflix, YouTube, Amazon
+        Healthcare – disease diagnosis, drug discovery
+        
+  Modern AI systems are powerful but are usually narrow AI, meaning they are designed for specific tasks rather than general intelligence.
