@@ -13,3 +13,5 @@ Problem-Solving Agents
           Problem formulation – How can I reach it?
           Search – Which sequence of actions works?
           Execution – Perform the actions
+
+Problem-solving through search in AI is analogous to state transition systems in automata theory, where an agent explores transitions from an initial state to a goal state, similar to reaching an accepting state in finite automata, but with cost and heuristic guidance
