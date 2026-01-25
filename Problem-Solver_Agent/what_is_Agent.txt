@@ -1,0 +1,15 @@
+Solving Problems by Searching
+What does “Solving Problems by Searching” actually mean?
+    In AI, we don’t jump to solutions.
+    We search through possibilities systematically.
+              AI = Agent + Environment + Goal + Search
+Problem-Solving Agents
+    A problem-solving agent:
+          perceives the environment
+          decides what to do
+          plans before acting
+    
+    How it works:      Goal formulation – What do I want?
+          Problem formulation – How can I reach it?
+          Search – Which sequence of actions works?
+          Execution – Perform the actions
