@@ -1,0 +1,9 @@
+What is Uniform-Cost Search (UCS)?
+  Uniform-Cost Search is a way for a computer to find the cheapest path to a goal.
+
+Why UCS = Dijkstra?
+
+Because:
+    Both use a priority queue
+    Both expand the lowest-cost node
+    Both guarantee the shortest path
