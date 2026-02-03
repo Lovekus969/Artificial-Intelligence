@@ -7,3 +7,10 @@ Because:
     Both use a priority queue
     Both expand the lowest-cost node
     Both guarantee the shortest path
+What is the time complexity of Uniform-Cost Search given branching factor 
+
+
+Answer:
+
+Uniform-Cost Search expands nodes in increasing order of path cost.
+In the worst case, UCS expands all nodes whose path cost is less than or equal to the optimal solution cost 
