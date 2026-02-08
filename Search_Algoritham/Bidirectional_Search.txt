@@ -1,0 +1,23 @@
+Bidirectional Search
+What it is
+
+Bidirectional Search runs two searches at the same time:
+
+    One forward from the start node
+    
+    One backward from the goal node
+    
+    The search stops when both searches meet in the middle.
+Time Complexity
+
+Let:
+
+  b = branching factor
+  d = depth of the optimal solution
+        Bidirectional Search  Time Complexity:  
+            O(b^ d/2)
+Uniform-Cost Search (UCS)
+
+Time Complexity:
+
+O(b^ 1+ ⌊C*/ε]) 
