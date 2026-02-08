@@ -2,3 +2,12 @@ Pdf or ppt ara attatched
 
 Artificial Intelligence 
 AI
+Searching algorithM 
+Decision Rule (EXAM GOLD 🏆)
+
+Answer like this 👇
+
+If all edge costs are equal → BFS
+If costs differ and optimal path needed → UCS
+If memory is limited → DFS
+If start & goal known and graph unweighted → Bidirectional BFS
