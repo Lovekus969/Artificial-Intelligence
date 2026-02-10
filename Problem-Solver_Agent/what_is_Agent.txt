@@ -23,3 +23,4 @@ In Artificial Intelligence, an agent is anything that:
     Perceives its environment through sensors
     Acts upon the environment through actuators
     A rational agent is an agent that does the right thing.
+A rational agent is one that selects the action that maximizes its expected performance measure, given the percept sequence it has observed and the knowledge it has.
