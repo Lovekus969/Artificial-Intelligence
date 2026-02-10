@@ -15,3 +15,11 @@ Problem-Solving Agents
           Execution – Perform the actions
 
 Problem-solving through search in AI is analogous to state transition systems in automata theory, where an agent explores transitions from an initial state to a goal state, similar to reaching an accepting state in finite automata, but with cost and heuristic guidance
+
+What is a Rational Agent in AI?
+
+In Artificial Intelligence, an agent is anything that:
+    
+    Perceives its environment through sensors
+    Acts upon the environment through actuators
+    A rational agent is an agent that does the right thing.
