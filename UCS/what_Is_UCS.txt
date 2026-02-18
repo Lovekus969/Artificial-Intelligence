@@ -14,3 +14,13 @@ Answer:
 
 Uniform-Cost Search expands nodes in increasing order of path cost.
 In the worst case, UCS expands all nodes whose path cost is less than or equal to the optimal solution cost 
+
+If all edge costs = 1
+→ UCS behaves exactly like BFS.
+
+If edge costs are different
+→ UCS behaves like Dijkstra’s Algorithm.
+
+In fact:
+
+UCS = Dijkstra (without goal stopping condition difference)
