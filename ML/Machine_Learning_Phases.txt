@@ -23,3 +23,31 @@ Dataset
    ├── Training Data (80%) → Train Model
    │
    └── Testing Data (20%) → Check Accuracy
+
+
+Phases of Supervised Learning
+
+In Supervised Learning, the model learns from labeled data (input + correct output).\
+Example: predicting house prices with Linear Regression.
+
+Phases:
+        1. Data Collection
+        Collect dataset with input and output.
+
+2. Data Preprocessing
+    Clean the data:
+                Remove missing values
+                Normalize data
+                Remove noise
+
+3. Train the Model
+    Use training data to learn patterns.
+    Algorithms:
+                Linear Regression
+                Decision Tree    
+                Support Vector Machine
+4. Testing the Model
+    Use testing data to check performance.
+
+5. Prediction
+    Model predicts outputs for new unseen data.
