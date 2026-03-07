@@ -51,3 +51,14 @@ Phases:
 
 5. Prediction
     Model predicts outputs for new unseen data.
+
+
+Phases of Unsupervised Learning
+
+    In Unsupervised Learning, the data has no labels.
+    The model finds hidden patterns.
+        Example: customer segmentation.
+
+Phases
+    1. Data Collection
+        Only input data is available.
