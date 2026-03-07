@@ -62,3 +62,9 @@ Phases of Unsupervised Learning
 Phases
     1. Data Collection
         Only input data is available.
+
+Phases of Reinforcement Learning
+    In Reinforcement Learning, an agent learns by interacting with an environment.
+
+    It receives rewards or penalties.
+    Example: robot learning to walk or game AI.
