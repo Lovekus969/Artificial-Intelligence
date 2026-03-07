@@ -1,0 +1,25 @@
+Machine Learning (ML) is a field of Artificial Intelligence where computers learn patterns from data and improve their performance without being explicitly programmed for every task.
+Training Data
+    
+    Training data is the data used to teach the machine learning model.
+    The algorithm studies this data and learns patterns.
+
+Testing Data
+
+    Testing data is used to evaluate the model after training.
+    The model has never seen this data before.
+
+Why We Split Data
+    
+    If we test on the same data used for training, the model may memorize instead of learning.
+    This problem is called overfitting.
+So we divide the dataset.
+
+Typical split:
+                      80% Training
+                      20% Testing
+Dataset
+   │
+   ├── Training Data (80%) → Train Model
+   │
+   └── Testing Data (20%) → Check Accuracy
