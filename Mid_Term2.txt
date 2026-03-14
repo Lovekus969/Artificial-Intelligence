@@ -1,0 +1,82 @@
+Q: What is a dataset?
+A dataset is a collection of data used to train or test a model.
+
+Q: What is an instance (or Sample)?
+Each row in the dataset is called an instance, sample, or data point.
+
+Q What is a Feature?
+A feature is an input variable used to predict something.
+
+Label = the correct output value that the machine learning model tries to predict.
+
+
+Ml and its three types :
+1.A What is Supervised Learning?
+    
+    Supervised learning means the model learns from labeled data.
+    That means every input already has the correct output (label).
+  further it has two parts : 
+1.A.a Classifications and Regression 
+1.A.a  Classification: Classification means predicting categories.
+
+    Examples:
+        Spam / Not Spam
+        Cat / Dog
+
+    
+    Fraud / Not Fraud
+1.A.b Regression
+
+Regression means predicting a number (continuous value).
+  Examples:
+            House price
+            Temperature
+2. Unsupervised Learning  : unsupervised learning concepts in Machine Learning. In unsupervised learning, the data does not have labels, and the algorithm tries to discover patterns automatically.
+Clustering: 
+    Clustering means grouping similar data points together.
+    The system finds groups where items in the same group are similar to each other.
+    
+    Example:
+        Customers can be grouped into:   
+            Group 1 → Students (low spending)
+            Group 2 → Professionals (medium spending)
+            Group 3 → Luxury buyers (high spending)
+2.2b Dimensionality Reduction
+
+    Dimensionality reduction means reducing the number of features (variables) in data while keeping the important information.
+    Sometimes datasets have too many features.
+
+Example:
+
+  House dataset:     
+                  Size
+                  Bedrooms
+                  Bathrooms
+                  Garage
+                  Distance to city
+                  Crime rate
+                  School rating
+                  Traffic level
+                  Population density
+3.3.3 Reinforcement Learning (RL)
+
+Reinforcement Learning is when a system learns by interacting with an environment and receiving rewards or penalties.
+
+The model improves by trial and error.
+
+Agent learns through interaction
+
+    The Cycle (step by step)
+    Observation → The environment sends the current state to the agent (e.g., a game screen, sensor data)
+    Policy → The agent uses its policy to decide what action to take
+    Action → The agent acts on the environment
+    Reward → The environment evaluates the action and sends a reward signal (positive or negative)
+    RL Algorithm → Uses the reward to update the policy, making better decisions next time
+
+The Goal
+The agent learns to maximize cumulative reward over time by continuously refining its policy through trial and error — without being explicitly programmed on how to act.
+
+Data Splitting
+   Training set (70-80%)
+   Testing set (20-30%)
+
