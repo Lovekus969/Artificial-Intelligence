@@ -1,0 +1,3 @@
+Classification in Supervised Learning
+
+Classification is a type of supervised learning where the model predicts a category (label) instead of a number.
