@@ -1,0 +1,3 @@
+Regression in Supervised Learning
+
+Regression is a type of supervised learning where the model predicts a continuous numeric value.
