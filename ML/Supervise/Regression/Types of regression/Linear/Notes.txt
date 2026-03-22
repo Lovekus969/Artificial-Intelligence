@@ -1,0 +1,5 @@
+Types of regression based on degree
+1. 🟢 Linear Regression (Degree = 1)
+Straight line
+Simple relationship
+Example: marks vs study hours
