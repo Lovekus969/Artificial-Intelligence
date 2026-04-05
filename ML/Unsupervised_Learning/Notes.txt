@@ -1,0 +1,16 @@
+Unsupervised learning is a type of machine learning where the model learns patterns from data without any labeled outcomes. In other words, there are no predefined answers or target variables provided. The goal is to explore the underlying structure, patterns, or distributions in the dataset.
+
+Key Concepts
+No Labels
+    The data only contains input features (X), but no corresponding output labels (Y).
+    Example: You have customer data (age, income, purchase history), but you don’t know which customers belong to which group.
+Goal
+    Find patterns, groupings, or structure.
+    Discover hidden relationships in the data.
+    Reduce dimensionality (simplify data while retaining structure).
+Main Types
+  Clustering: Group similar data points together.
+    Example Algorithms:
+                      K-Means
+                      DBSCAN
+                      Hierarchical Clustering
