@@ -21,3 +21,7 @@ Definition
 
 DBSCAN groups points based on density — areas with high density form clusters, and low-density points are treated as noise.
 
+Hierarchical Clustering
+📌 Definition
+
+Builds a tree-like structure (dendrogram) of clusters.
