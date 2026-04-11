@@ -1,0 +1,47 @@
+Supervised Learning: Classification vs Regression
+
+In supervised learning, we train a model using labeled data, where both input and correct output are known.
+
+There are two main types:
+
+ 1. Classification (Qualitative Output)
+
+Classification is used when the output is qualitative (categorical).
+  It divides data into groups or classes
+  Output is labels like:
+                        Good / Not Good
+                        Pass / Fail
+                        Spam / Not Spam
+   Example:
+
+In a car wash system:
+                        Rating ≥ 4 → Good
+                        Rating < 3 → Not Good
+
+ Here, we are segregating data into categories, not predicting exact numbers.
+
+ 2. Regression (Quantitative Output)
+    Regression is used when the output is quantitative (numerical).
+
+It predicts continuous values
+    Output is numbers like:
+                            4.2 stars
+                            Price: $25
+                            Time: 30 minutes
+ Example:
+    In the same car wash system:
+    Predict exact rating → 4.3 stars
+
+ Here, we are predicting a precise numerical value.
+
+ Key Difference
+  Feature	Classification	Regression
+  Output Type	Qualitative (Category)	Quantitative (Number)
+  Example	Good / Not Good	4.5 Rating
+
+Conclusion
+            If output is category → Classification
+            If output is a number → Regression
+
+Both are types of supervised learning, but they solve different kinds of problems.
+
