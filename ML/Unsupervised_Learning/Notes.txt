@@ -33,3 +33,4 @@ In K-Means, we choose K (number of clusters) and the algorithm groups data into 
 But the big question is:
 
  How do we choose the best K?
+The Elbow Method is used to determine the optimal number of clusters in K-Means by identifying the point where the decrease in WCSS slows down significantly.”
