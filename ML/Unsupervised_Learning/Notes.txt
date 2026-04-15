@@ -22,6 +22,14 @@ Definition
 DBSCAN groups points based on density — areas with high density form clusters, and low-density points are treated as noise.
 
 Hierarchical Clustering
-📌 Definition
+ Definition
 
 Builds a tree-like structure (dendrogram) of clusters.
+
+What is K-Means Clustering?
+
+In K-Means, we choose K (number of clusters) and the algorithm groups data into K clusters.
+
+But the big question is:
+
+ How do we choose the best K?
