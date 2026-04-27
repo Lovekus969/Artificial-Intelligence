@@ -1,0 +1,15 @@
+An agent learns by interacting with an environment and receiving rewards or penalties.
+
+Think:
+
+No labeled data (like supervised learning)
+No pure pattern discovery (like unsupervised)
+Instead → trial and error learning
+
+Key Components of Reinforcement Learning:
+Agent: The learner or decision-maker.
+Environment: The world or context the agent interacts with.
+Policy (
+): The strategy the agent uses to determine the next action based on the current state.
+Reward Signal: Feedback from the environment evaluating the last action (positive or negative).
+Value Function: The long-term desirability of a state, considering future rewards, not just immediate ones. 
