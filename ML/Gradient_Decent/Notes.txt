@@ -1,1 +1,17 @@
 Gradient descent is a fundamental iterative optimization algorithm used in machine learning and deep learning to minimize a cost function (error) by adjusting model parameters (weights and biases). It works by calculating the gradient of the cost function—the steepest upward direction—and moving in the opposite direction (negative gradient) to find the local minimum.
+
+
+
+Key Concepts in Gradient Descent Cost Function: 
+        The function being minimized, which gauges the difference between predicted and actual results.Gradient: A vector that points in the direction of the steepest ascent of the function. The algorithm moves in the opposite direction.Learning Rate (\(\eta \) or \(\alpha \))
+        : A small step size that determines how quickly the algorithm converges to the minimum.
+        Too small: Slow convergence.
+        Too large: Risk of overshooting the minimum.
+        Iteration: The process is repeated until the function converges to a minimum, where the gradient is zero or close to it.Core StepsInitialize Parameters: Start with random weights and biases.
+        Calculate Gradient: Compute the steepest direction of the cost function at the current point.
+        Update Parameters: Move in the opposite direction of the gradient by the step size.
+        Iterate: Repeat steps 2 and 3 until the loss is minimized (convergence).
+        Types of Gradient Descent:
+        Batch Gradient Descent: Computes the gradient using the entire dataset for each step.
+        Stable but slow on large data.
+        Stochastic Gradient Descent (SGD): Computes the gradient using only a single training example per step. Fast but noisy.Mini-Batch Gradient Descent: A compromise that calculates the gradient on small subsets (mini-batches) of data, offering efficiency and stability.
