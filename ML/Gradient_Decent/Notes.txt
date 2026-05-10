@@ -1,0 +1,1 @@
+Gradient descent is a fundamental iterative optimization algorithm used in machine learning and deep learning to minimize a cost function (error) by adjusting model parameters (weights and biases). It works by calculating the gradient of the cost function—the steepest upward direction—and moving in the opposite direction (negative gradient) to find the local minimum.
